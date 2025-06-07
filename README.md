@@ -1,4 +1,4 @@
-SmileSchool - Advanced CSS Project 🎭
+#SmileSchool - Advanced CSS Project 🎭
 
 Table of Contents
 Project Overview
